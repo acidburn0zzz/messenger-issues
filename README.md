@@ -3,7 +3,7 @@
 This repo will be used for tracking issues across all of Messenger's platforms:
 
 1. Android App
-2. Rails Server
+2. Backend Server
 3. Web Client
 4. Chrome App
 
