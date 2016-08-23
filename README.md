@@ -44,3 +44,5 @@ Add a floating action button to the app which has a home icon on it that only sh
 ```
 
 This is not a support section, if you need support or have a question then please find a contact email in the `Help and Feedback` section of the app.
+
+To report your issue, find the `Issues` link near the top of the web page and click it. Then in the right corner, click the green button labeled `New issue`.
