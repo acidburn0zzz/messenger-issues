@@ -1,13 +1,17 @@
-# Messenger Issue Tracker
+# Messenger Issue Tracker and Road Map
 
-This repo will be used for tracking issues across all of Messenger's platforms:
+This repo will be used for tracking issues and act as a roadmap across all of Messenger's platforms:
 
 1. Android App
 2. Backend Server
 3. Web Client
 4. Chrome App
 
-and any that may be added in the future (iOS, Mac, Windows, etc.).
+and any that may be added in the future (iOS, Mac, Windows, etc?).
+
+To view the currently reported issues and requests, simply hit the [issues](https://github.com/klinker-apps/messenger-issues/issues) tab at the top of the screen.
+
+## Filing an Issue or Request
 
 If you have an issue with the app or a feature request, this is the place to report it to us and get feedback on it! You'll also be able to tell what work is being done on the issue and when it has been completed.
 
