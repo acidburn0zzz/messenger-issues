@@ -1,3 +1,5 @@
+![promo](https://raw.githubusercontent.com/klinker-apps/messenger-issues/master/promo/Final%20Promos/Quad%20Promos/Quad%20Promo%20-%20Original%20Size%20-%20Pulse.png)
+
 # Messenger Issue Tracker and Road Map
 
 This repo will be used for tracking issues and act as a roadmap across all of Messenger's platforms:
