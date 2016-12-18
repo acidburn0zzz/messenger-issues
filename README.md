@@ -1,4 +1,4 @@
-![promo](https://raw.githubusercontent.com/klinker-apps/messenger-issues/master/promo/Final%20Promos/Quad%20Promos/Quad%20Promo%20-%20Original%20Size%20-%20Pulse.png)
+![promo](https://raw.githubusercontent.com/klinker-apps/messenger-issues/master/promo/klinker-apps/combined_graphic_pulse.png)
 
 # Messenger Issue Tracker and Road Map
 
